@@ -1,3 +1,3 @@
-def method(a):
+def method():
     return 'Hello World!'
 
