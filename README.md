@@ -6,6 +6,5 @@
 
 TODO after generating a repo from the template
 
-1. set `CODACY_PROJECT_TOKEN` varable at tarvis
 1. update badges to point to the newly generated repo
 1. start coding
