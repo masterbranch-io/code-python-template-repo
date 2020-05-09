@@ -6,5 +6,5 @@
 
 TODO after generating a repo from the template
 
-1. update badges to point to the newly generated repo
-1. start coding
+1.  update badges to point to the newly generated repo
+2.  start coding
